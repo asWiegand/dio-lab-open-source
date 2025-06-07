@@ -1,4 +1,4 @@
-# Willian Wiegad
+# Willian Wiegand
 Olá, sou Willian, graduando em Ciência da Computação pela UFPEL. Estou animado para minha primeira oportunidade de trabalho, onde poderei aplicar meus conhecimentos e habilidades para contribuir na solução de desafios no mundo da tecnologia.
 
 
